@@ -136,6 +136,7 @@ this.add(messageInput,BorderLayout.SOUTH);
 
 this.setVisible(true);
 //making changes to commit
+//mk
 
 
     }
