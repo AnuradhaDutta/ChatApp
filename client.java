@@ -135,6 +135,7 @@ this.add(jScrollPane,BorderLayout.CENTER);
 this.add(messageInput,BorderLayout.SOUTH);
 
 this.setVisible(true);
+//making changes to commit
 
 
     }
